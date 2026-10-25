@@ -20,5 +20,74 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "컨버전스홀": {
+      "style": "ribbon",
+      "wall": "#7e5e4e",
+      "glass": "#34464c",
+      "frame": "#a5a9af"
+    },
+    "창조관": {
+      "style": "brick",
+      "wall": "#a25a44",
+      "glass": "#2f3a48",
+      "frame": "#d8cfc2",
+      "hip": true,
+      "roof": "#4b4b4f"
+    },
+    "연세스포츠센터": {
+      "style": "concrete",
+      "wall": "#e9e7e2",
+      "glass": "#4f7f99",
+      "frame": "#9fa3a6"
+    },
+    "청송관": {
+      "style": "brick",
+      "wall": "#86604f",
+      "glass": "#2e3236",
+      "frame": "#d9d4d2",
+      "hip": true,
+      "roof": "#5a5a5e"
+    },
+    "청연학사": {
+      "style": "dorm",
+      "wall": "#94604f",
+      "glass": "#2a526c",
+      "frame": "#3c6a85",
+      "hip": true,
+      "roof": "#c9d0d6"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#7a5548",
+      "glass": "#232a2e",
+      "frame": "#d9dde0",
+      "hip": true,
+      "roof": "#4a3a33"
+    },
+    "미래관": {
+      "style": "brick",
+      "wall": "#c77a4f",
+      "glass": "#373b3e",
+      "frame": "#4a4a48"
+    },
+    "정의관": {
+      "style": "brick",
+      "wall": "#96685e",
+      "glass": "#2b2a30",
+      "frame": "#d2d0cf",
+      "hip": true,
+      "roof": "#6e7075"
+    },
+    "백운관": {
+      "style": "brick",
+      "wall": "#a27a6e",
+      "glass": "#50595b",
+      "frame": "#d8d2cc",
+      "hip": true,
+      "roof": "#3a3945"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
