@@ -1,0 +1,34 @@
+{
+ "region": "강원 원주시 흥업면",
+ "nameEn": "Yonsei University Mirae Campus",
+ "added": "2026-10-17",
+ "rank": 65,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HALLA",
+   "campus": "한라대학교",
+   "km": 2.6
+  },
+  {
+   "code": "KANGWON-WONJU",
+   "campus": "강원대학교 원주캠퍼스",
+   "km": 3.3
+  },
+  {
+   "code": "YONSEI-WMED",
+   "campus": "연세대학교 원주의과대학",
+   "km": 8.6
+  },
+  {
+   "code": "KDU-WONJU",
+   "campus": "경동대학교 메디컬캠퍼스",
+   "km": 9.6
+  },
+  {
+   "code": "SANGJI",
+   "campus": "상지대학교",
+   "km": 10.3
+  }
+ ]
+}
